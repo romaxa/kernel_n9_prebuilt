@@ -1,0 +1,91 @@
+/lib/modules/2.6.32.48-dfl61-20115101/twl5031-aci.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/wl12xx_sdio.ko: /lib/modules/2.6.32.48-dfl61-20115101/wl12xx.ko
+/lib/modules/2.6.32.48-dfl61-20115101/scsi_mod.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/bridgedriver.ko: /lib/modules/2.6.32.48-dfl61-20115101/mailbox.ko
+/lib/modules/2.6.32.48-dfl61-20115101/pn_pep.ko: /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/omap-aes.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/nfnetlink.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/lis3lv02d.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/mailbox.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ext2.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/cmt.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/cryptodev.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/twl4030_keypad.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/iommu.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/bhsfh.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/nfs.ko: /lib/modules/2.6.32.48-dfl61-20115101/lockd.ko /lib/modules/2.6.32.48-dfl61-20115101/auth_rpcgss.ko /lib/modules/2.6.32.48-dfl61-20115101/sunrpc.ko
+/lib/modules/2.6.32.48-dfl61-20115101/bcm4751-gps.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/leds-lp5523.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/hci_h4p.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ipv6.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/sd_mod.ko: /lib/modules/2.6.32.48-dfl61-20115101/scsi_mod.ko
+/lib/modules/2.6.32.48-dfl61-20115101/cryptoloop.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xt_IDLETIMER.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xt_condition.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xfrm6_mode_beet.ko: /lib/modules/2.6.32.48-dfl61-20115101/ipv6.ko
+/lib/modules/2.6.32.48-dfl61-20115101/JoikuSpot_Bouncer.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/omap3-iommu.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xfrm6_mode_transport.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/twl4030-pwrbutton.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/g_softupd.ko: /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/omaplfb.ko: /lib/modules/2.6.32.48-dfl61-20115101/pvrsrvkm.ko
+/lib/modules/2.6.32.48-dfl61-20115101/rpcsec_gss_krb5.ko: /lib/modules/2.6.32.48-dfl61-20115101/auth_rpcgss.ko /lib/modules/2.6.32.48-dfl61-20115101/sunrpc.ko
+/lib/modules/2.6.32.48-dfl61-20115101/jbd.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ip_tables.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ip6table_filter.ko: /lib/modules/2.6.32.48-dfl61-20115101/ip6_tables.ko
+/lib/modules/2.6.32.48-dfl61-20115101/nfnetlink_log.ko: /lib/modules/2.6.32.48-dfl61-20115101/nfnetlink.ko
+/lib/modules/2.6.32.48-dfl61-20115101/ak8975.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/radio-wl1273.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/iommu2.ko: /lib/modules/2.6.32.48-dfl61-20115101/iommu.ko
+/lib/modules/2.6.32.48-dfl61-20115101/lockd.ko: /lib/modules/2.6.32.48-dfl61-20115101/sunrpc.ko
+/lib/modules/2.6.32.48-dfl61-20115101/n_fbus.ko: /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/smiapp-power.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/wl12xx.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/cmt_speech.ko: /lib/modules/2.6.32.48-dfl61-20115101/ssi_protocol.ko /lib/modules/2.6.32.48-dfl61-20115101/cmt.ko /lib/modules/2.6.32.48-dfl61-20115101/omap_ssi.ko /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/wl12xx_spi.ko: /lib/modules/2.6.32.48-dfl61-20115101/wl12xx.ko
+/lib/modules/2.6.32.48-dfl61-20115101/g_ncm.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/vibra_spi.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/g_file_storage.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/bnep.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xt_RATEEST.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xt_rateest.ko: /lib/modules/2.6.32.48-dfl61-20115101/xt_RATEEST.ko
+/lib/modules/2.6.32.48-dfl61-20115101/phonet.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/jffs2.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/hidp.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/hid-twl4030-vibra.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/omap3-isp.ko: /lib/modules/2.6.32.48-dfl61-20115101/iovmm.ko /lib/modules/2.6.32.48-dfl61-20115101/iommu.ko
+/lib/modules/2.6.32.48-dfl61-20115101/scsi_wait_scan.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/apds990x.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ext3.ko: /lib/modules/2.6.32.48-dfl61-20115101/jbd.ko
+/lib/modules/2.6.32.48-dfl61-20115101/leds-lp5521.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ads7846.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ssi_protocol.ko: /lib/modules/2.6.32.48-dfl61-20115101/cmt.ko /lib/modules/2.6.32.48-dfl61-20115101/omap_ssi.ko /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/iptable_filter.ko: /lib/modules/2.6.32.48-dfl61-20115101/ip_tables.ko
+/lib/modules/2.6.32.48-dfl61-20115101/xfrm6_mode_tunnel.ko: /lib/modules/2.6.32.48-dfl61-20115101/ipv6.ko
+/lib/modules/2.6.32.48-dfl61-20115101/g_zero.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/mailbox_mach.ko: /lib/modules/2.6.32.48-dfl61-20115101/mailbox.ko
+/lib/modules/2.6.32.48-dfl61-20115101/as3645a.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/rng-core.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/iovmm.ko: /lib/modules/2.6.32.48-dfl61-20115101/iommu.ko
+/lib/modules/2.6.32.48-dfl61-20115101/g_ether.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/pn544.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/xt_NFLOG.ko: /lib/modules/2.6.32.48-dfl61-20115101/nfnetlink_log.ko /lib/modules/2.6.32.48-dfl61-20115101/nfnetlink.ko
+/lib/modules/2.6.32.48-dfl61-20115101/hsi_char.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/dm-crypt.ko: /lib/modules/2.6.32.48-dfl61-20115101/dm-mod.ko
+/lib/modules/2.6.32.48-dfl61-20115101/ip6_tables.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ak8974.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/mtdswap.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ad58xx.ko: /lib/modules/2.6.32.48-dfl61-20115101/smiapp-power.ko
+/lib/modules/2.6.32.48-dfl61-20115101/g_nokia.ko: /lib/modules/2.6.32.48-dfl61-20115101/phonet.ko
+/lib/modules/2.6.32.48-dfl61-20115101/omap_ssi.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/mtdconcat.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/smiapp.ko: /lib/modules/2.6.32.48-dfl61-20115101/smiapp-power.ko
+/lib/modules/2.6.32.48-dfl61-20115101/dm-mod.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/lis3lv02d_i2c.ko: /lib/modules/2.6.32.48-dfl61-20115101/lis3lv02d.ko
+/lib/modules/2.6.32.48-dfl61-20115101/pvrsrvkm.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ad5807.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/ramzswap.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/omap34xx_temp.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/sunrpc.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/pcbc.ko:
+/lib/modules/2.6.32.48-dfl61-20115101/auth_rpcgss.ko: /lib/modules/2.6.32.48-dfl61-20115101/sunrpc.ko
